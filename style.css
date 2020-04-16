@@ -1,0 +1,17 @@
+ body{
+     display: -moz-box;
+     font-style: italic;
+     border: 3PX solid white;
+     background-image: image img 4;
+     height: 150vh;
+     background-size: cover;
+     background-position: center;
+     width: 360px;
+     padding: 30px;
+     z-index: 1;
+     max-width: 360px;
+     margin: 10 auto 100px;
+     line-height:1.5;
+     font-style: normal;
+          font-size: medium;
+ }
